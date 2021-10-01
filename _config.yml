@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: 계산신경과학연구실
-short_labname: ChungLab
-email: physi5logy@gmail.com
+title: 예쁜아기곰
+short_labname: babybear
+email: agigom@gmail.com
 logo: logo.png
 description: > # 다음 줄에 연구실 소개 입력
-  ChungLab of Computational Neuroscience, Seoul National University; 서울대학교 치과대학 정지훈 교수 감각신경 연구실; Gehoon Chung;
+  동그란 눈에 하얀 작은 코; 예쁜 털 옷을 입은 예쁜 아기곰; Agi Gom;
 baseurl: "" # the subpath of your site, e.g. /blog
-github_username:  ChungLab
+github_username:  agigom
 google-site-verification:
 
 # Build settings
